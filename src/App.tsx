@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Mic, Speaker, Square } from 'lucide-react';
 
-const API_KEY = 'AIzaSyDjMD2-aGBLztFZThIjGG51EHtN7AVGsZE';
+const API_KEY = 'YOUR_API_KEY_HERE';
 
 function App() {
   const [isRecording, setIsRecording] = useState(false);
