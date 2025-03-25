@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Mic, Speaker, Square } from 'lucide-react';
 
-const API_KEY = '[REMOVED_GOOGLE_API_KEY]';
+const API_KEY = 'YOUR_API_KEY_HERE';
 
 function App() {
   const [isRecording, setIsRecording] = useState(false);
