@@ -1,3 +1,4 @@
 # VoiceChatApp
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/shakilmsr/VoiceChatApp)
+A basic AI voice chat app in Gemma3. In its current configuration, it only works in web browsers. 
+
